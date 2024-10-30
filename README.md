@@ -1,2 +1,3 @@
-# cart-system
-Cart System using Node.js
+# Cart System
+
+Cart System built using Node.js
